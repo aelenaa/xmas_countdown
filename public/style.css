@@ -1,0 +1,22 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: radial-gradient(circle at 63.02% 13%,#1d8bc2,transparent 53%),radial-gradient(circle at 33.39% 47.06%,#b42253,transparent 42%),radial-gradient(circle at 30.31% 63.98%,#610a2b,transparent 40%),radial-gradient(circle at 83.33% 87.72%,#164058,transparent 100%),radial-gradient(circle at 50% 50%,#262057,#021635 100%);
+}
+.link-button {
+    display: block;
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: calc(50vw - 100px);
+    top: calc(50vh - 25px);
+    padding: 10px;
+    text-align: center;
+    line-height: 30px;
+    background: #610a2b;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: none;
+    border-radius: 8px;
+    box-shadow: 0 3px 5px rgba(0,0,0,0.3);
+}
