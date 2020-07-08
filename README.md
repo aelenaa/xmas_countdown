@@ -6,7 +6,9 @@ This is the first webpage I made using html, css and js. It was a fun project an
 
 ## Getting Started
 setup.cmd installs cherrypy, which is the only installment needed.
+
 RUN.cmd runs xmas.py
+
 Easy Peasy.
 
 ## Links
