@@ -9,12 +9,13 @@ setup.cmd installs cherrypy, which is the only installment needed.
 
 RUN.cmd runs xmas.py
 
-Easy Peasy.
+You'll also need python installed
 
 ## Links
 Links.csv contains all the 'surprise' content. This can easily be added to and dates don't have to be added in chronological order. 
 
 **Note** 
+
 Dates must be written as (day, month) with a space after the comma.
 As an example, the first day of the year is (1, 1) and NOT (01, 01) or (1, 01) or (01, 1) or (1,1)
 
